@@ -1,0 +1,23 @@
+﻿@using System.Web.Optimization
+
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <base href="/" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/Styles")
+</head>
+<body>
+    <div>
+        <app-root>Loading...</app-root>
+    </div>
+    @Scripts.Render("~/Script/Bundles")
+</body>
+</html>

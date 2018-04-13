@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peoples_Marks", "Peoples_Marks\Peoples_Marks.csproj", "{769FEF0E-1257-4B0C-B845-5372774B0EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peoples_Marks.UI", "Peoples_Marks.UI\Peoples_Marks.UI.csproj", "{E055C80A-909A-48BB-99A2-F802FF211650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769FEF0E-1257-4B0C-B845-5372774B0EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769FEF0E-1257-4B0C-B845-5372774B0EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769FEF0E-1257-4B0C-B845-5372774B0EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769FEF0E-1257-4B0C-B845-5372774B0EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E055C80A-909A-48BB-99A2-F802FF211650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E055C80A-909A-48BB-99A2-F802FF211650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E055C80A-909A-48BB-99A2-F802FF211650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E055C80A-909A-48BB-99A2-F802FF211650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DEA9869-40F2-460B-BE75-78E61C8EB2E7}
+	EndGlobalSection
+EndGlobal
